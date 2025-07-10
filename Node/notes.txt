@@ -1,0 +1,1 @@
+npm init -y   -> used to quickly create a package.json(-y(-yes) Skips all the questions and automatically fills in default values)
