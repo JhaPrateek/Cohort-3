@@ -48,7 +48,7 @@ app.put("/",(req,res)=>{
         }
     }
     users[0].kidney=arr
-    res.send("Bad jidney remved successfully")
+    res.send("Bad kidney remved successfully")
 })
 
 app.listen(3000);
