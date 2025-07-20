@@ -4,7 +4,7 @@ import jwt from "jsonwebtoken";
 const app=express();
 app.use(express.json());
 
-const SECRET_KEY="iamprateek"
+const SECRET_KEY="HELLOMYNAMEISPRATEEK"
 
 const users=[];
 
